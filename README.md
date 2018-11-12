@@ -1,6 +1,6 @@
 # PikesRules
 
-_Reference_: https://twitter.com/rob_pike/status/998681790037442561?lang=en
+_Reference_: https://twitter.com/rob_pike/status/998681790037442561?lang=en  
 _Reference_: http://doc.cat-v.org/bell_labs/pikestyle
 
 # preface
